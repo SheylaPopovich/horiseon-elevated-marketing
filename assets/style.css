@@ -1,3 +1,4 @@
+/*standardized website by applying main styles to universal selector*/  
 * {
     box-sizing: border-box;
     padding: 0;
@@ -29,6 +30,7 @@ body {
     font-size: 20px;
     }
     
+
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -75,11 +77,13 @@ a {
     background-color: #2589bd;
     }
 
+/*merged repeated classes to one listed below*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*removed unnecessary class using only the element*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -94,10 +98,12 @@ h3 {
     color: #ffffff;
 }
 
+/*condensed section images to one class*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/*condensed aside images to one class*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
