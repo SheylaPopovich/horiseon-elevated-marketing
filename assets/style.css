@@ -73,7 +73,7 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+    }
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -110,14 +110,14 @@ h2 {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     }
     
-.footer h2 {
+footer h2 {
     font-size: 20px;
     }
     
