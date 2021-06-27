@@ -3,7 +3,7 @@
 <br>
 </br>
 
-## ⚙ About The Project 
+## <p style="color:blue">⚙ About The Project</p> 
 While the client's existing website was aesthetically pleasing, there were several areas in need of revision in order to meet accessibility standards and incresae search engine optimization. With a focus on creating prime SEO I started with systematizing the structure of the website's HTML. In the HTML makeup I embedded the appropriate semantic elements, for example inserting a nav tag for the wesbite's navigation bar elements and adding section tags for the content. One of the first and foremost principle of web accessibilty is having alt attributes in an image tag to accomadate visually impaired users using screen readers. Each image tag in the HTML was revised with conise descriptive alt attributes. 
 <br>
 </br>
@@ -11,7 +11,7 @@ While the client's existing website was aesthetically pleasing, there were sever
 <br>
 </br>
 
-## ⚙ Acceptance Criteria Met 
+## <p style="color:blue">⚙ Acceptance Criteria Met</p>
  [ ✔ ] Meets accessibilty standards
  
  [ ✔ ] Semantic HTML elements
@@ -24,7 +24,7 @@ While the client's existing website was aesthetically pleasing, there were sever
 <br>
 </br>
 
- ## ⚙ Completed Version
+ ## <p style="color:blue">⚙ Completed Version</p>
 <img src="assets/images/horiseon-screenshot.png">
 
 ### _This site was built using_ [GitHub Pages.](https://sheylapopovich.github.io/horiseon-elevated-marketing/)
