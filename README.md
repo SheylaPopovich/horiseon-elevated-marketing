@@ -25,7 +25,7 @@ While the client's existing website was aesthetically pleasing, there were sever
 </br>
 
  ## ⚙ Completed Version
-<img src="">
+<img src="assets/images/horiseon-screenshot.png">
 
 
 
