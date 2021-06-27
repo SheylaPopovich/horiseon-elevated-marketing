@@ -27,6 +27,5 @@ While the client's existing website was aesthetically pleasing, there were sever
  ## ⚙ Completed Version
 <img src="assets/images/horiseon-screenshot.png">
 
-
-
+### _This site was built using_ [GitHub Pages.](https://sheylapopovich.github.io/horiseon-elevated-marketing/)
 
